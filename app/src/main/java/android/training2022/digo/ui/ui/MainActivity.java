@@ -1,8 +1,9 @@
-package android.training2022.digo;
+package android.training2022.digo.ui.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.training2022.digo.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        
+
     }
 }
